@@ -1,8 +1,6 @@
 # NAUTILUS [an ARIS project](https://aris-space.ch/our-projects/nautilus/).
 
 ## Repositories
-List repositories in this format:
-- `[name](link_to_repo), @github_username_maintainer: description`
 
 ### Utils
 - [polarisutils](https://github.com/Nautilus-UUV/.github.git), @massarin: provides centralized topic definitions, QoS profiles, and non-intrusive utilities 
