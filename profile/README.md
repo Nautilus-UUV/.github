@@ -4,6 +4,9 @@
 List repositories in this format:
 - `[name](link_to_repo), @github_username_maintainer: description`
 
+### Utils
+- [polarisutils](https://github.com/Nautilus-UUV/.github.git), @massarin: provides centralized topic definitions, QoS profiles, and non-intrusive utilities 
+
 ### Missions
 - [polaris-ros2-divetest](https://github.com/Nautilus-UUV/polaris-ros2-divetest), @ReasonableFailure: Integrated code for the 2025 divetest at Zürisee
 
