@@ -14,6 +14,7 @@ Our UUV uses a multi-component software system:
 ## Simulations
 - [dave](https://github.com/Nautilus-UUV/dave), @massarin: a fork of [IOES-Lab/dave](https://github.com/IOES-Lab/dave) (ros2 branch of [Field-Robotics-Lab/dave](https://github.com/Field-Robotics-Lab/dave)) that hosts our custom Polaris model
 
-## Legacy
+## Useful
+- [github_introduction](https://github.com/Nautilus-UUV/github_introduction), @jannick-schroeer: The perfect intro to github at Nautilus
 - [polaris-ros2-divetest](https://github.com/Nautilus-UUV/polaris-ros2-divetest), @ReasonableFailure: Integrated code for the 2025 divetest at Zürisee
 - [dave-ros1](https://github.com/Nautilus-UUV/dave-ros1), @wueestry: a fork of ros1 dave, contains legacy meshes and custom mavros script
