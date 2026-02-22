@@ -11,3 +11,4 @@
 - [**nautilus-bridge-backend**](https://github.com/Nautilus-UUV/command-bridge-backend): Backend of the communication pipeline with the UUV
 - [**nautilus-bridge-frontend**](https://github.com/Nautilus-UUV/command-bridge-frontend): Frontend of the communication pipeline with the UUV
 - [**nautilus-GlidyNautilus**](https://github.com/Nautilus-UUV/nautilus-GlidyNautilus): Fun game developed to present NAUTILUS
+- [**nautilus-physics-simulation**](https://github.com/Nautilus-UUV/nautilus-physics-simulation): Physics-informed simulation framework
